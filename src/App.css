@@ -114,6 +114,19 @@ h1 {
   align-items: center;
   flex-wrap: wrap;
 }
+.placeholder-style {
+  background-color: #000000; /* Set the desired background color */
+  width: 350px; /* Set the width of the placeholder */
+  height: 400px; /* Set the height of the placeholder */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* .movie-container {
+  background-color: #000000 !important;
+  padding: 8px; 
+  display: inline-block; /* To contain the background color around the content */
+/* } */
 
 .movie {
   width: 310px;
